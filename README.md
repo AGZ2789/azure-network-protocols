@@ -8,7 +8,9 @@
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
+
 <h2>Environments and Technologies Used</h2>
+
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
@@ -29,6 +31,44 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 4
 
 <h2>Actions and Observations</h2>
+
+
+
+
+<h2></h2>
+
+
+
+
+
+
+<h2></h2>
+
+
+
+
+
+
+<h2></h2>
+
+
+
+
+
+
+<h2></h2>
+
+
+
+
+
+
+<h2></h2>
+
+
+
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
