@@ -27,10 +27,12 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create Resources
+  - Virtual Machine 1 | Windows 10
+  - Virtual Machine 2 | Ubuntu
+- Download & Install Wireshark and use to:
+  - Observe ICMP Traffic using VM1
+  - Observe SSH Traffic using VM1 & VM2
 
 <h2>Actions and Observations</h2>
 
